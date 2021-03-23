@@ -1,0 +1,20 @@
+{
+    "name": "mebit",
+    "version": "1.0.0",
+    "description": "Extension for szbot micro:bit",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.3.10"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh/mebit-strings.json"
+
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
